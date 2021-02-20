@@ -1,6 +1,8 @@
 # Goodleaf
 > Goodleaf is a project by YSC to help farmers all over the world by bringing them closer to each other. 
 
+## This notebook only cantains the machine learning part of the overall project. Please refer to the other Github repo for other files. [Link](https://github.com/amit076/Forum)
+
 ## Table of contents
 * [General info](#general-info)
 * [Scope](#scope)
