@@ -30,7 +30,12 @@ But even an impressive technology like this is nothing without an easy to use an
 Another major feature of the Goodleaf is it’s simple yet very informative forums. I personally think it is the best part about Goodleaf. The best person who could help you in the time of trouble is a fellow person who does the same thing as you do in day to day life. This feature enables farmers from different geographical features, climate, and most importantly knowledge and experience level to connect with each other.
 
 ## Setup
-Describe how to install / setup your local environement / add link to demo version.
+* Git clone the Github repo
+* Install files from requirements.txt
+`pip3 install -r requirements.txt`
+* Keep all models (model.h5 and model.json) to Forms/machinelearning/models. [Link for models](https://drive.google.com/drive/folders/1qeDUhN-yaSNZ4Ii-N0SDDHfGQE5KrBH5?usp=sharing)
+* Start the server by using python3 manage.py runserver or python manage.py runserver for windows
+* Done
 
 ## Features
 Features of Goodleaf.
