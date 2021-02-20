@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Kaggle: Your Home for Data Science</title>
+    <meta charset="utf-8" />
+    <meta name="robots" content="index, follow" />
+    <meta name="description" content="Kaggle is the world&#x2019;s largest data science community with powerful tools and resources to help you achieve your data science goals." />
+    <meta name="turbolinks-cache-control" content="no-cache" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, minimum-scale=1.0">
+    <meta name="theme-color" content="#008ABC" />
+    <script nonce="1L7v8wjYLp4NawXo8vGE2Q==" type="text/javascript">
+        if ('serviceWorker' in navigator) {
+            navigator.serviceWorker.getRegistrations()
+                .then(function(registrations) {
+                    for (let registration of registrations) {
+                        registration.unregister();
+                    }
+                })
+                .catch(function(err) {
+                    console.error("Service worker unregister failed: ", err);
+                });
+        }
+    </script>
+    <script nonce="1L7v8wjYLp4NawXo8vGE2Q==" type="text/javascript">
+        window["pageRequestStartTime"] = 1613788388244;
+        window["pageRequestEndTime"] = 1613788388248;
+        window["initialPageLoadStartTime"] = new Date().getTime();
+    </script>
+    <link rel="preconnect" href="https://www.google-analytics.com" crossorigin="anonymous" /><link rel="preconnect" href="https://stats.g.doubleclick.net" /><link rel="preconnect" href="https://storage.googleapis.com" /><link rel="preconnect" href="https://apis.google.com" />
+    <link href="/static/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <link rel="manifest" href="/static/json/manifest.json" crossorigin="use-credentials">
+    <link href="//fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic" rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/icon?family=Google+Material+Icons" rel="stylesheet" type='text/css' />
+        <link rel="stylesheet" type="text/css" href="/static/assets/vendor.css?v=498ac77d266fb5e32801" />
+        <link rel="stylesheet" type="text/css" href="/static/assets/app.css?v=d939059a4ec9e53bd21e" />
+    
+    
+ 
+    
+    <script nonce="1L7v8wjYLp4NawXo8vGE2Q==">
+        try{(function(a,s,y,n,c,h,i,d,e){d=s.createElement("style");
+        d.appendChild(s.createTextNode(""));s.head.appendChild(d);d=d.sheet;
+        y=y.map(x => d.insertRule(x + "{ opacity: 0 !important }"));
+        h.start=1*new Date;h.end=i=function(){y.forEach(x => x<d.cssRules.length ? d.deleteRule(x) : {})};
+        (a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+        })(window,document,['.site-header-react__nav'],'dataLayer',2000,{'GTM-52LNT9S':true});}catch(ex){}
+    </script>
+    <script nonce="1L7v8wjYLp4NawXo8vGE2Q==">
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+        gtag('config', 'UA-12629138-1', {
+            'optimize_id': 'GTM-52LNT9S',
+            'displayFeaturesTask': null,
+            'send_page_view': false,
+            'content_group1': 'Account'
+        });
+    </script>
+    <script nonce="1L7v8wjYLp4NawXo8vGE2Q==" async src="https://www.googletagmanager.com/gtag/js?id=UA-12629138-1"></script>
+
+    
+    
+
+    
+    
+
+    
+    
+    
+<script nonce="1L7v8wjYLp4NawXo8vGE2Q==" type="text/javascript">
+    var Kaggle = window.Kaggle || {};
+
+    Kaggle.Current = {
+        antiForgeryToken: 'CfDJ8LdUzqlsSWBPr4Ce3rb9VL916JAb8xXoIW4RaGnCuz27Mhy7hRYLvjeNcEfsam-7MN4IlqB0FfgK_RpEiLd4UZXxq15BGQudgmKQ7jKZzFYX-N4ColwibFhhjepe_GNh0N_0Cl5bZGEBSdcSsTkV8n4',
+        isAnonymous: true,
+        analyticsToken: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MTM3ODkyODgsIlVzZXJJZCI6MH0.qm0iAKyUoy17PXfoQjN6JhnWspGu1a-rEfcZWrz3Iec',
+        analyticsTokenExpiry: 15,
+        
+        
+        
+        
+        
+        
+        mdeImageUploader: true,
+        
+        enableRapidash: true, 
+    }
+        Kaggle.Current.log = function(){};
+        Kaggle.Current.warn = function(){};
+
+    var decodeUserDisplayName = function () {
+        var escapedUserDisplayName = Kaggle.Current.userDisplayNameEscaped || "";
+        try {
+            var textVersion = new DOMParser().parseFromString(escapedUserDisplayName, "text/html").documentElement.textContent;
+            if (textVersion) {
+                return textVersion;
+            }
+        } catch(ex) {}
+        return escapedUserDisplayName;
+    }
+    Kaggle.Current.userDisplayName = decodeUserDisplayName();
+</script>
+
+    
+
+<script nonce="1L7v8wjYLp4NawXo8vGE2Q==" type="text/javascript">
+    var Kaggle = window.Kaggle || {};
+    Kaggle.PageMessages = [];
+</script>
+
+        <script nonce="1L7v8wjYLp4NawXo8vGE2Q==" type="text/javascript">
+/* <![CDATA[ */
+goog_snippet_vars = function() {
+    var w = window;
+    w.google_conversion_id = 955616553;
+    w.google_conversion_label = "QSjvCKDksHMQqZrWxwM";
+    w.google_conversion_value = 0.00;
+    w.google_conversion_currency = "USD";
+    w.google_remarketing_only = false;
+    w.google_conversion_language = "en";
+    w.google_conversion_format = "3";
+    w.google_conversion_color = "ffffff";
+}
+// DO NOT CHANGE THE CODE BELOW.
+goog_report_conversion = function(url) {
+    goog_snippet_vars();
+    window.google_conversion_format = "3";
+    var opt = new Object();
+    opt.onload_callback = function() {
+        if (typeof(url) != 'undefined') {
+            window.location = url;
+        }
+    }
+    var conv_handler = window['google_trackConversion'];
+    if (typeof(conv_handler) == 'function') {
+        conv_handler(opt);
+    }
+}
+/* ]]> */
+    </script>
+    <script nonce="1L7v8wjYLp4NawXo8vGE2Q==" type="text/javascript"
+            src="//www.googleadservices.com/pagead/conversion_async.js">
+    </script>
+
+
+
+        <script nonce="1L7v8wjYLp4NawXo8vGE2Q==">window['useKaggleAnalytics'] = true;</script>
+
+    <script id="gapi-target" nonce="1L7v8wjYLp4NawXo8vGE2Q==" src="https://apis.google.com/js/api.js" defer async></script>
+    <script nonce="1L7v8wjYLp4NawXo8vGE2Q==" src="/static/assets/runtime.js?v=fdb9ad0b1578e029e77b" data-turbolinks-track="reload"></script>
+    <script nonce="1L7v8wjYLp4NawXo8vGE2Q==" src="/static/assets/vendor.js?v=8479fb555d08a4cd888f" data-turbolinks-track="reload"></script>
+    <script nonce="1L7v8wjYLp4NawXo8vGE2Q==" src="/static/assets/app.js?v=8c1c1d983fcd1263fcdf" data-turbolinks-track="reload"></script>
+        <script nonce="1L7v8wjYLp4NawXo8vGE2Q==" type="text/javascript">
+            window.kaggleStackdriverConfig = {
+                key: 'AIzaSyDANGXFHtSIVc51MIdGwg4mQFgm3oNrKoo',
+                projectId: 'kaggle-161607',
+                service: 'web-fe',
+                version: 'ci',
+                context: {
+                    user: '0',
+                },
+            };
+        </script>
+</head>
+<body data-turbolinks="false">
+    <main>
+        
+
+
+
+
+
+
+<div id="site-container"></div>
+
+<div id="site-body" class="hide">
+    
+
+<div data-component-name="LoginRegisterPage" style="display: flex; flex-direction: column; flex: 1 0 auto;"></div><script class="kaggle-component" nonce="1L7v8wjYLp4NawXo8vGE2Q==">var Kaggle=window.Kaggle||{};Kaggle.State=Kaggle.State||[];Kaggle.State.push({});performance && performance.mark && performance.mark("LoginRegisterPage.componentCouldBootstrap");</script>
+
+</div>
+
+
+
+
+    </main>
+</body>
+</html>
