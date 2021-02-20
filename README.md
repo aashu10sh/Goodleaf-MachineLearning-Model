@@ -6,7 +6,6 @@
 ## Table of contents
 * [General info](#general-info)
 * [Scope](#scope)
-* [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Features](#features)
