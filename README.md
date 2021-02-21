@@ -3,6 +3,9 @@
 
 ## This notebook only cantains the machine learning part of the whole project. Please refer to the other Github repo for web app.  [Link](https://github.com/amit076/Forum)
 
+## Note:
+This model was trained in kaggle and uses one of the dataset of kaggle. The link for dataset is provided within the notebook.
+
 ## Table of contents
 * [General info](#general-info)
 * [Scope](#scope)
@@ -23,13 +26,14 @@ Along with farming , this can also , in coming times be developed as a portal fo
 
 ## Technologies
 The cutting edge deep learning model is at the heart of Goodleaf. It takes the advantages of transfer learning to classify diseased and healthy leaves into 38 categories (which will surely increase in near future) with high accuracy. Not just classify but it also provides solutions to the problems within a few seconds. 
+Also, it aggregates other posts in the forum belonging which belong to the category of the classified leaf.
 
-But even an impressive technology like this is nothing without an easy to use and pleasant  User Interface. So the UI for Goodleaf is specially built the way it is so that everyone can use it. The UI is very intuitive that everyone can wrap their head around it easily. 
+But even an impressive technology like this is nothing without an easy to use and pleasant  User Interface. So the UI for Goodleaf is specially built the way it is so that everyone can use it. The UI is very intuitive that everyone can wrap their head around it easily.But still it has got few issues in being a responsive webapp.
 
-Another major feature of the Goodleaf is it’s simple yet very informative forums. I personally think it is the best part about Goodleaf. The best person who could help you in the time of trouble is a fellow person who does the same thing as you do in day to day life. This feature enables farmers from different geographical features, climate, and most importantly knowledge and experience level to connect with each other.
+Another major feature of the Goodleaf is it’s simple yet very informative forums. I personally think it is the best part about Goodleaf. The best person who could help you in the time of trouble is a fellow person who does the same thing as you do in day to day life. This feature enables farmers from different geographical features, climate, and most importantly knowledge and experience level to connect with each other. Not only farmers even people belonging to other profession doing farming in their roof tops and in other ways can benefit out of this forum.
 
 
-## Features
+## Features of webapp
 Features of Goodleaf.
 * Desease Detection.
 * Gives Solutions and Remidies.
