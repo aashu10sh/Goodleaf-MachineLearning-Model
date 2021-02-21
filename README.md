@@ -7,7 +7,6 @@
 * [General info](#general-info)
 * [Scope](#scope)
 * [Technologies](#technologies)
-* [Setup](#setup)
 * [Features](#features)
 * [Status](#status)
 * [Inspiration](#inspiration)
